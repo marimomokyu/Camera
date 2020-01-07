@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Camera
 //
-//  Created by 堤治 on 2020/01/06.
+//  Created by Marimo on 2020/01/06.
 //  Copyright © 2020 Marimo. All rights reserved.
 //
 
